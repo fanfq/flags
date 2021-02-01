@@ -1,5 +1,10 @@
-# flags
+sofar support 160 regions legal tender, and 298 cryptocurrency, symbol、name、icon mapping tables 
+- free & unlimited to use
+- thanks for upgrade & maintenance 
+- any questions let me know
 
+
+# mapping tables
 
 SYMBOL | NAME | COUNTRY | CATEGORY | PNG(56*56)|
 :----------- | -----------: | -----------:| -----------:| -----------:
