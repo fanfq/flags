@@ -6,7 +6,7 @@
 
 # mapping tables
 
-SYMBOL | NAME | COUNTRY | CATEGORY | PNG(56*56)|
+SYMBOL | NAME | COUNTRY | REGION | PNG(56*56)|
 :----------- | -----------: | -----------:| -----------:| -----------:
 AAVE | Aave Protocol | - | crypto | ![AAVE](/dist/imgs/aave.png)
 ADA | Cardano | - | crypto | ![ADA](/dist/imgs/ada.png)
